@@ -1,2 +1,0 @@
-# HabitFlow AI - Scripts Package
-
