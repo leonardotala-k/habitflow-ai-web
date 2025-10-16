@@ -5,10 +5,12 @@ const nextConfig = {
   images: {
     unoptimized: true
   },
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/habitflow-ai-web' : '',
-  basePath: process.env.NODE_ENV === 'production' ? '/habitflow-ai-web' : '',
+  assetPrefix: '/habitflow-ai-web',
+  basePath: '/habitflow-ai-web',
 }
 
 module.exports = nextConfig
+
+
 
 
